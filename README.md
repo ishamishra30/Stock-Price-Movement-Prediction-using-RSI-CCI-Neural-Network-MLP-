@@ -205,7 +205,9 @@ Predict Today’s Market Direction
 | Strategy Returns   | Profit or loss from trades          |
 
 using steamlit we can make better interface too!!
+app.py:
+<img width="1833" height="907" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/b50c52c2-3fc7-4a00-9102-2c986a457c56" />
 
-<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/2b8df7d3-0b4c-46bc-b33b-01e37892e904" />
 
-<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/9ae354b4-4c28-4d3f-972f-c7215e01a933" />
+<img width="1840" height="1007" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/ca13d546-33b7-414c-906e-93eb2dbff5ff" />
+
