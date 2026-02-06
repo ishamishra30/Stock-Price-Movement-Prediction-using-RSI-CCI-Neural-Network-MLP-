@@ -2,10 +2,12 @@
 
 This project predicts short-term stock price direction (UP / DOWN) using:
 
-Historical stock price data (Tesla – TSLA)
+1. Historical stock price data (Tesla – TSLA)
 
-Technical Indicators (RSI & CCI)
+2. Technical Indicators (RSI & CCI)
 
-Machine Learning model (Neural Network – MLPClassifier)
+3. Machine Learning model (Neural Network – MLPClassifier)
 
-Strategy backtesting using predicted signals
+4. Strategy backtesting using predicted signals
+
+
